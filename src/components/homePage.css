@@ -1,0 +1,39 @@
+.container__home input {
+  border: 0.5px solid #c8c8c8;
+  border-radius: 10px;
+  position: absolute;
+  width: 700px;
+  height: 60px;
+  left: 370px;
+  top: 390px;
+  padding-left: 28px;
+}
+
+.container__home img {
+  position: absolute;
+  top: 410px;
+  left: 1020px;
+}
+
+.container__home input::placeholder {
+  color: #c8c8c8;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}
+.container__home h1 {
+  position: absolute;
+  width: 294px;
+  height: 86px;
+  left: 572px;
+  top: 263px;
+
+  font-family: 'SF Pro Text';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 86px;
+  /* identical to box height */
+
+  text-align: center;
+}
